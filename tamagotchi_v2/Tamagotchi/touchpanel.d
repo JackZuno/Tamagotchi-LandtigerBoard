@@ -1,0 +1,14 @@
+.\touchpanel.o: TouchPanel\TouchPanel.c
+.\touchpanel.o: TouchPanel\../GLCD/GLCD.h
+.\touchpanel.o: E:\ARM\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\touchpanel.o: E:\ARM\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\touchpanel.o: E:\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\touchpanel.o: E:\ARM\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\touchpanel.o: E:\ARM\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\touchpanel.o: E:\ARM\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\touchpanel.o: E:\ARM\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\touchpanel.o: E:\ARM\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\touchpanel.o: TouchPanel\../GLCD/AsciiLib.h
+.\touchpanel.o: E:\ARM\ARM\ARMCC\Bin\..\include\string.h
+.\touchpanel.o: TouchPanel\../GLCD/../timer/timer.h
+.\touchpanel.o: TouchPanel\../TouchPanel/TouchPanel.h
